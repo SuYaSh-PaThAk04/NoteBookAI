@@ -133,7 +133,7 @@ Step 4: Response
 
 ✨ Author
 
-👩‍💻 Riya Singh
+👩‍💻 Suyash Pathak
 🚀 Full Stack & AI Developer
 
 
